@@ -1,0 +1,9 @@
+Docker Cloud provides a hosted registry service with build and testing facilities for Dockerlized application images;
+    tools to help you set up and manage host infrastructure; and application lifecycle features to automate deploying
+    and redeploying services created from images.
+
+iDocker Cloud uses the hosted Docker Cloud Registry, which allows you to publish Dockerized images on the internet either
+    publicly or privately. Docker Cloud could also store pre-built images, or link to your source code so it can build the
+    code into Docker images, and optionally test the resulting images before publishing.
+
+Registry service contains repositories.
